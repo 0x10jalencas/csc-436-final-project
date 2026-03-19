@@ -28,10 +28,6 @@ instantly check compatibility with friends uppon clicking the link.
 *You can view the design assets and wireframes below:*
 - **Figma Project Link:** [View
   Wireframes](https://www.figma.com/design/hvXdBWCOo6bHz0heCRGf3x/CSC-436-Wireframes?node-id=2003-446&t=ODhCaa788h3vXTfl-0)
-- **Design Screenshots:** (Ensure these files are in your project's `/docs` or
-  root folder)
-  - `![Splash Screen](app/src/main/res/drawable/persona_logo.png)`
-  - `![Main Screen](app/src/main/res/drawable/title_enneagram.png)`
 
 ### Key Features & Technical Implementation
 Here is the list of the Android and Jetpack Compose features I utilized:
