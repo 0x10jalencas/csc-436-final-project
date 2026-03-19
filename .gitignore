@@ -1,0 +1,40 @@
+# Built artifacts
+/build
+/.gradle
+/app/build
+*.iml
+*.hprof
+
+local.properties
+secrets.properties
+secrets.xml
+
+# IDE - Android Studio / IntelliJ
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/shelf
+/.idea/dictionaries
+/.idea/gradle.xml
+/.idea/tasks.xml
+/.idea/runConfigurations.xml
+.navigation/
+
+# Kotlin
+.kotlin/
+
+# Native Build
+.externalNativeBuild
+.cxx
+/cmake-build-debug/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Captures / Test Results
+/captures/
+/test-results/
