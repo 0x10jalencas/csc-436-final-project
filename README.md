@@ -1,7 +1,7 @@
 # Persona Enneagram Personality App
 
-Author: Jess A. Alencaster
-Class: CSC 436: Mobile App Development
+Author: Jess A. Alencaster  
+Class: CSC 436: Mobile App Development  
 Professor Ken Kubiak
 
 ### Project Description
